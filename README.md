@@ -32,9 +32,6 @@ The dataset used for this project was sourced from Kaggle and contains sales-rel
 ---
 
 ## 🖼️ Dashboard Preview
+https://github.com/prachipathak05/Sales-Performance-Dashboard/blob/main/Sales_Dashboard.png
 
 
----
-
-## 📁 Project Files
-- `sales_dashboard.png` – Dashboard screenshot  
